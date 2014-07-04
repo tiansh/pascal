@@ -1,0 +1,10 @@
+=黑白棋=
+
+==控制==
+* &lt;Up&gt;, &lt;Down&gt;, &lt;Left&gt;, &lt;Right&gt;:控制光标移动。
+* &lt;Enter&gt;:落子。
+* &lt;Crtl&gt;-&lt;R&gt;:重置。
+* &lt;Crtl&gt;-&lt;H&gt;:电脑选择落子点。
+* &lt;Esc&gt;:退出。
+
+

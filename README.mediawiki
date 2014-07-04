@@ -1,0 +1,19 @@
+=黑历史Pascal代码集合=
+
+此repo所有代码均早已不再进行维护。仅仅是备份黑历史用的。总之请不要在这个repo上开任何issue或者pull request，不要吐槽文件名和变量名里面的拼音汉字或者是各种中二的东西。就是这样
+
+任何DOS6.22～Windows XP的电脑，安装Turbo Pascal 7.0后打好t7tplfix补丁，然后就可以简单地编译运行了。如果其他系统的话，先装虚拟机（或者DOSBOX）吧。DosBox要记得改掉其中的中文路径，总之Windows XP下面效果最好就是了。
+
+除非特殊说明，否则其中代码以CC0和MIT license许可。
+
+[https://github.com/tiansh/pascal/24/ 24点]
+[https://github.com/tiansh/pascal/csz/ 猜数字]
+[https://github.com/tiansh/pascal/fk/ 俄罗斯方块]
+[https://github.com/tiansh/pascal/hbq/ 黑白棋]
+[https://github.com/tiansh/pascal/llk/ 连连看]
+[https://github.com/tiansh/pascal/ppl/ 泡泡龙]
+[https://github.com/tiansh/pascal/sl/ 扫雷]
+[https://github.com/tiansh/pascal/tjmj/ 天津麻将]
+[https://github.com/tiansh/pascal/txz/ 推箱子]
+[https://github.com/tiansh/pascal/zfj/ 炸飞机]
+

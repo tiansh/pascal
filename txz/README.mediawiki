@@ -1,0 +1,7 @@
+=推箱子=
+
+==控制==
+
+* &lt;Up&gt;, &lt;Down&gt;, &lt;Left&gt;, &lt;Right&gt;:控制运动、推。
+* &lt;Z&gt;:撤消。
+* &lt;R&gt;:重置当前关。
