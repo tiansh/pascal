@@ -1,6 +1,7 @@
-=����齫=
-��Ϸ��������Ϊ���¹����������С�͡�
-��ϸ����ȥά���ٿƿ��ɡ���
+=天津麻将=
+游戏基本规则为中下滚混儿，不带小和。
+详细规则去维基百科看吧……
 
-==�����ļ�==
-EGAVGA.BGI��VESA16.BGI�ļ���Turbo Pascal�еġ�
+==其他文件==
+EGAVGA.BGI，VESA16.BGI文件是Turbo Pascal中的。
+

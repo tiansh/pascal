@@ -1,10 +1,9 @@
-=ºÚ°×Æå=
+=é»‘ç™½æ£‹=
 
-==¿ØÖÆ==
-* &lt;Up&gt;, &lt;Down&gt;, &lt;Left&gt;, &lt;Right&gt;:¿ØÖÆ¹â±êÒÆ¶¯¡£
-* &lt;Enter&gt;:Âä×Ó¡£
-* &lt;Crtl&gt;-&lt;R&gt;:ÖØÖÃ¡£
-* &lt;Crtl&gt;-&lt;H&gt;:µçÄÔÑ¡ÔñÂä×Óµã¡£
-* &lt;Esc&gt;:ÍË³ö¡£
-
+==æ§åˆ¶==
+* &lt;Up&gt;, &lt;Down&gt;, &lt;Left&gt;, &lt;Right&gt;:æ§åˆ¶å…‰æ ‡ç§»åŠ¨ã€‚
+* &lt;Enter&gt;:è½å­ã€‚
+* &lt;Crtl&gt;-&lt;R&gt;:é‡ç½®ã€‚
+* &lt;Crtl&gt;-&lt;H&gt;:ç”µè„‘é€‰æ‹©è½å­ç‚¹ã€‚
+* &lt;Esc&gt;:é€€å‡ºã€‚
 

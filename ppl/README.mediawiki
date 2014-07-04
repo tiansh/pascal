@@ -1,31 +1,32 @@
-=������=
+=泡泡龙=
 
-==�ļ�==
-* MATHS.PAS������������룬�ж������Ƿ�Ӵ���
-* SCORE.PAS������÷֣����ַ������͸߾��ȼӷ���
-* TRIANGLE.PAS�����Ǻ������㡣
-* BMP.PAS������豸�޹�����ͼƬ����Ļ��
-* FUNCBALL.PAS�������򣨻�ˮ�����򣩡�
-* PRINT.PAS����ӡ������BMP UNIT����
-* MUSIC.PAS���������֣�������
-* PROCFUNC.PAS����Ҫ���̡�����������������С����������룬��ʼ���ȣ���
-* CONSTANT.PAS���������塣
-* MAP_EDIT.PAS��ÿ�س�ʼ����༭��
-* PPL.PAS��������
+==文件==
+* MATHS.PAS：计算两球距离，判断两球是否接触。
+* SCORE.PAS：计算得分，含字符串类型高精度加法。
+* TRIANGLE.PAS：三角函数计算。
+* BMP.PAS：输出设备无关类型图片到屏幕。
+* FUNCBALL.PAS：功能球（火、水、电球）。
+* PRINT.PAS：打印（调用BMP UNIT）。
+* MUSIC.PAS：背景音乐／噪音。
+* PROCFUNC.PAS：主要过程、函数。（如球的运行、反弹，输入，初始化等）。
+* CONSTANT.PAS：常量定义。
+* MAP_EDIT.PAS：每关初始情况编辑。
+* PPL.PAS：主程序。
 
-==����==
+==控制==
 PPL.EXE
-* &lt;Up&gt;, &lt;Left&gt;, &lt;Right&gt;:����ָ�뷽��
-* &lt;Down&gt;��&lt;Enter&gt;��&lt;Space&gt;:���䡣
-* &lt;Crtl&gt;+&lt;S&gt;:�������ء�
-* &lt;P&gt;:��ͣ��������
+* &lt;Up&gt;, &lt;Left&gt;, &lt;Right&gt;:控制指针方向。
+* &lt;Down&gt;或&lt;Enter&gt;或&lt;Space&gt;:发射。
+* &lt;Crtl&gt;+&lt;S&gt;:声音开关。
+* &lt;P&gt;:暂停，继续。
 
 MAP_EDIT.EXE
-* &lt;0&gt;, &lt;Del&gt;:ɾ����ǰλ�õ����õ�ǰλ��Ϊ��(0)
-* &lt;1&gt;..&lt;8&gt;, &lt;F&gt;, &lt;W&gt;, &lt;E&gt;, &lt;R&gt;:����ǰλ�ø�Ϊ����ɫ��ù��ܵ���(F:�� W:ˮ E:�� R:���)
-* : ע��ѡ��W��Ҫѡ�����������ı��ʲô��ɫ(&lt;1&gt;..&lt;8&gt;, &lt;R&gt;)
-* &lt;Crtl&gt;-&lt;Del&gt;:�����������Ϊ�ա�
+* &lt;0&gt;, &lt;Del&gt;:删除当前位置的球，置当前位置为空(0)
+* &lt;1&gt;..&lt;8&gt;, &lt;F&gt;, &lt;W&gt;, &lt;E&gt;, &lt;R&gt;:将当前位置改为该颜色或该功能的球。(F:火 W:水 E:电 R:随机)
+* : 注：选择W后还要选择将其下面的球改变成什么颜色(&lt;1&gt;..&lt;8&gt;, &lt;R&gt;)
+* &lt;Crtl&gt;-&lt;Del&gt;:清除所有球，置为空。
 
 
-==�����ļ�==
-EGAVGA.BGI��VESA16.BGI��TRIP.CHR�ļ���Turbo Pascal�еġ�
+==其他文件==
+EGAVGA.BGI，VESA16.BGI，TRIP.CHR文件是Turbo Pascal中的。
+

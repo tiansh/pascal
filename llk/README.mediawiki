@@ -1,13 +1,14 @@
-=������=
+=连连看=
 
-==�ļ�==
-* TIMERS.PAS��ʱ�����ؼ��Ŀ⡣
-* PRINT.PAS�����ڴ�ӡ�Ŀ⡣
-* BMP����ʾ16ɫBMPͼƬ�Ŀ⡣
-* GRAMOUSE��Graphģʽ�µ�������ʾ�����ƵĿ⡣
-* PROCFUNC����Ҫ���̺ͺ����Ŀ⡣
-* CONSTVAR����Ҫ�����������Ŀ⡣
-* LLK.PAS��������������
+==文件==
+* TIMERS.PAS：时间条控件的库。
+* PRINT.PAS：关于打印的库。
+* BMP：显示16色BMP图片的库。
+* GRAMOUSE：Graph模式下的鼠标的显示、控制的库。
+* PROCFUNC：主要过程和函数的库。
+* CONSTVAR：主要常数、变量的库。
+* LLK.PAS：连连看主程序。
 
-==�����ļ�==
-EGAVGA.BGI��VESA16.BGI�ļ���Turbo Pascal�еġ�
+==其他文件==
+EGAVGA.BGI，VESA16.BGI文件是Turbo Pascal中的。
+

@@ -1,19 +1,20 @@
-=ºÚÀúÊ·Pascal´úÂë¼¯ºÏ=
+=é»‘å†å²Pascalä»£ç é›†åˆ=
 
-´ËrepoËùÓĞ´úÂë¾ùÔçÒÑ²»ÔÙ½øĞĞÎ¬»¤¡£½ö½öÊÇ±¸·İºÚÀúÊ·ÓÃµÄ¡£×ÜÖ®Çë²»ÒªÔÚÕâ¸örepoÉÏ¿ªÈÎºÎissue»òÕßpull request£¬²»ÒªÍÂ²ÛÎÄ¼şÃûºÍ±äÁ¿ÃûÀïÃæµÄÆ´Òôºº×Ö»òÕßÊÇ¸÷ÖÖÖĞ¶şµÄ¶«Î÷¡£¾ÍÊÇÕâÑù
+æ­¤repoæ‰€æœ‰ä»£ç å‡æ—©å·²ä¸å†è¿›è¡Œç»´æŠ¤ã€‚ä»…ä»…æ˜¯å¤‡ä»½é»‘å†å²ç”¨çš„ã€‚æ€»ä¹‹è¯·ä¸è¦åœ¨è¿™ä¸ªrepoä¸Šå¼€ä»»ä½•issueæˆ–è€…pull requestï¼Œä¸è¦åæ§½æ–‡ä»¶åå’Œå˜é‡åé‡Œé¢çš„æ‹¼éŸ³æ±‰å­—æˆ–è€…æ˜¯å„ç§ä¸­äºŒçš„ä¸œè¥¿ã€‚å°±æ˜¯è¿™æ ·
 
-ÈÎºÎDOS6.22¡«Windows XPµÄµçÄÔ£¬°²×°Turbo Pascal 7.0ºó´òºÃt7tplfix²¹¶¡£¬È»ºó¾Í¿ÉÒÔ¼òµ¥µØ±àÒëÔËĞĞÁË¡£Èç¹ûÆäËûÏµÍ³µÄ»°£¬ÏÈ×°ĞéÄâ»ú£¨»òÕßDOSBOX£©°É¡£DosBoxÒª¼ÇµÃ¸ÄµôÆäÖĞµÄÖĞÎÄÂ·¾¶£¬×ÜÖ®Windows XPÏÂÃæĞ§¹û×îºÃ¾ÍÊÇÁË¡£
+ä»»ä½•DOS6.22ï½Windows XPçš„ç”µè„‘ï¼Œå®‰è£…Turbo Pascal 7.0åæ‰“å¥½t7tplfixè¡¥ä¸ï¼Œç„¶åå°±å¯ä»¥ç®€å•åœ°ç¼–è¯‘è¿è¡Œäº†ã€‚å¦‚æœå…¶ä»–ç³»ç»Ÿçš„è¯ï¼Œå…ˆè£…è™šæ‹Ÿæœºï¼ˆæˆ–è€…DOSBOXï¼‰å§ã€‚DosBoxè¦è®°å¾—æ”¹æ‰å…¶ä¸­çš„ä¸­æ–‡è·¯å¾„ï¼Œæ€»ä¹‹Windows XPä¸‹é¢æ•ˆæœæœ€å¥½å°±æ˜¯äº†ã€‚
 
-³ı·ÇÌØÊâËµÃ÷£¬·ñÔòÆäÖĞ´úÂëÒÔCC0ºÍMIT licenseĞí¿É¡£
+é™¤éç‰¹æ®Šè¯´æ˜ï¼Œå¦åˆ™å…¶ä¸­ä»£ç ä»¥CC0å’ŒMIT licenseè®¸å¯ã€‚
 
-* [https://github.com/tiansh/pascal/tree/master/24/ 24µã]
-* [https://github.com/tiansh/pascal/tree/master/csz/ ²ÂÊı×Ö]
-* [https://github.com/tiansh/pascal/tree/master/fk/ ¶íÂŞË¹·½¿é]
-* [https://github.com/tiansh/pascal/tree/master/hbq/ ºÚ°×Æå]
-* [https://github.com/tiansh/pascal/tree/master/llk/ Á¬Á¬¿´]
-* [https://github.com/tiansh/pascal/tree/master/ppl/ ÅİÅİÁú]
-* [https://github.com/tiansh/pascal/tree/master/sl/ É¨À×]
-* [https://github.com/tiansh/pascal/tree/master/tjmj/ Ìì½òÂé½«]
-* [https://github.com/tiansh/pascal/tree/master/txz/ ÍÆÏä×Ó]
-* [https://github.com/tiansh/pascal/tree/master/zfj/ Õ¨·É»ú]
+* [https://github.com/tiansh/pascal/tree/master/24/ 24ç‚¹]
+* [https://github.com/tiansh/pascal/tree/master/csz/ çŒœæ•°å­—]
+* [https://github.com/tiansh/pascal/tree/master/fk/ ä¿„ç½—æ–¯æ–¹å—]
+* [https://github.com/tiansh/pascal/tree/master/hbq/ é»‘ç™½æ£‹]
+* [https://github.com/tiansh/pascal/tree/master/llk/ è¿è¿çœ‹]
+* [https://github.com/tiansh/pascal/tree/master/ppl/ æ³¡æ³¡é¾™]
+* [https://github.com/tiansh/pascal/tree/master/sl/ æ‰«é›·]
+* [https://github.com/tiansh/pascal/tree/master/tjmj/ å¤©æ´¥éº»å°†]
+* [https://github.com/tiansh/pascal/tree/master/txz/ æ¨ç®±å­]
+* [https://github.com/tiansh/pascal/tree/master/zfj/ ç‚¸é£æœº]
 
+æ€»ä¹‹è¿™ä¸ªrepoå°±æ˜¯ä¸€ä¸ªä¸åŠ¡æ­£ä¸šçš„oiå­¦ç”Ÿæ‹¿Pascalå†™çš„ä¸€å †ä¹±ä¸ƒå…«ç³Ÿçš„ä¸œè¥¿ã€‚æœ€åï¼Œæ„Ÿè°¢ä¿é€ç”Ÿåˆ¶åº¦ï¼Œå¤šäºäº†æ•°å­¦ç«èµ›ï¼Œç°åœ¨æ‰èƒ½åœ¨è¿™ä¸ªå¤§å­¦å¿µä¹¦â€¦â€¦
