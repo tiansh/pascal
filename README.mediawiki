@@ -6,14 +6,14 @@
 
 除非特殊说明，否则其中代码以CC0和MIT license许可。
 
-[https://github.com/tiansh/pascal/24/ 24点]
-[https://github.com/tiansh/pascal/csz/ 猜数字]
-[https://github.com/tiansh/pascal/fk/ 俄罗斯方块]
-[https://github.com/tiansh/pascal/hbq/ 黑白棋]
-[https://github.com/tiansh/pascal/llk/ 连连看]
-[https://github.com/tiansh/pascal/ppl/ 泡泡龙]
-[https://github.com/tiansh/pascal/sl/ 扫雷]
-[https://github.com/tiansh/pascal/tjmj/ 天津麻将]
-[https://github.com/tiansh/pascal/txz/ 推箱子]
-[https://github.com/tiansh/pascal/zfj/ 炸飞机]
+* [https://github.com/tiansh/pascal/tree/master/24/ 24点]
+* [https://github.com/tiansh/pascal/tree/master/csz/ 猜数字]
+* [https://github.com/tiansh/pascal/tree/master/fk/ 俄罗斯方块]
+* [https://github.com/tiansh/pascal/tree/master/hbq/ 黑白棋]
+* [https://github.com/tiansh/pascal/tree/master/llk/ 连连看]
+* [https://github.com/tiansh/pascal/tree/master/ppl/ 泡泡龙]
+* [https://github.com/tiansh/pascal/tree/master/sl/ 扫雷]
+* [https://github.com/tiansh/pascal/tree/master/tjmj/ 天津麻将]
+* [https://github.com/tiansh/pascal/tree/master/txz/ 推箱子]
+* [https://github.com/tiansh/pascal/tree/master/zfj/ 炸飞机]
 
