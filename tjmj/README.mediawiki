@@ -1,6 +1,8 @@
 =天津麻将=
-游戏基本规则为中下滚混儿，不带小和。
+游戏基本规则为中下滚混儿，不带小和。<br />
 详细规则去维基百科看吧……
+
+[http://tjmj.sourceforge.net/mj.html 其实后来还做过一个网页版的用来交作业……]
 
 ==其他文件==
 EGAVGA.BGI，VESA16.BGI文件是Turbo Pascal中的。
